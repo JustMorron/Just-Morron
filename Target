@@ -1,11 +1,36 @@
 Tujuan yang ingin di capai dari membuat web menggunakan laravel :
 
 1. Landing Page Sederhana
+    * Navbar
+    * Hero banner
+    * Deskripsi layanan
+    * Pricing
+    * Footer
+
 2. Form Input Sederhana
+    * Form Pendaftaran (Identitas diri)
+    * Validasi dasar
+    * Simpan ke database
+
 3. CRUD Sederhana
+    * Tambah, edit, hapus, tampil data
+    * Tema: produk / siswa / buku
+
 4. Sistem Login & Register
+    * Login user
+    * Register
+    * Session
+
 5. Dashboard Admin Simple
+    * Tampilkan jumlah data
+    * Tabel transaksi
+    * Grafik chart 
+
 6. Aplikasi Kasir Mini
+    * Input produk
+    * Hitung total otomatis
+    * Simpan transaksi
+
 7. Sistem Penjualan Basic
 8. Sistem Keuangan Mini
 9. Sistem Booking / Reservasi
