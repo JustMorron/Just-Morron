@@ -86,6 +86,13 @@ Tujuan yang ingin di capai dari membuat web menggunakan laravel :
       * Buku kas & akuntansi sederhana
 
 16. Sistem Klinik / Rumah Sakit Mini (SIM Klinik)
+      * Pendaftaran pasien
+      * Riwayat rekam medis
+      * Jadwal dokter
+      * Resep obat
+      * Billing pasien
+      * Laporan bulanan
+
 17. Sistem Pembayaran Digital (E-Wallet Sederhana)
 18. Aplikasi E-Learning / LMS
 19. Aplikasi Streaming Video (Mini YouTube)
