@@ -112,4 +112,8 @@ Tujuan yang ingin di capai dari membuat web menggunakan laravel :
       * API Rate Limit
       * API Documentation (Swagger)
 
+30. Laravel Livewire / Inertia
+      * Livewire: form dinamis, tabel realtime
+      * Inertia + Vue/React: SPA
+
 Kurang lebih segitu hehe :D
