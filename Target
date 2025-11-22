@@ -106,4 +106,10 @@ Tujuan yang ingin di capai dari membuat web menggunakan laravel :
 27. Sistem HRIS (Human Resource Information System)
 28. Website baca komik 
 
+29. API & Mobile Integration
+      * REST API (Laravel API Resource)
+      * JWT / Sanctum Authentication
+      * API Rate Limit
+      * API Documentation (Swagger)
+
 Kurang lebih segitu hehe :D
