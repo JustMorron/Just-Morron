@@ -116,4 +116,20 @@ Tujuan yang ingin di capai dari membuat web menggunakan laravel :
       * Livewire: form dinamis, tabel realtime
       * Inertia + Vue/React: SPA
 
+31. Role Management (RBAC)
+      * Admin, Staff, User
+      * Setiap role punya akses berbeda
+      * Gunakan Laravel Permission (spatie)
+
+32. Payment Gateway Integration
+      * Midtrans
+      * Xendit
+      * Duitku
+      * Tripay
+
+33. Realtime Notification
+      * WebSocket
+      * Laravel Echo
+      * Pusher / Soketi
+
 Kurang lebih segitu hehe :D
