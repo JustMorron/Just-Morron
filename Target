@@ -12,6 +12,7 @@ Tujuan yang ingin di capai dari membuat web menggunakan laravel :
     * Validasi Dasar
     * Input ke Database
     * tabel contact
+    * input banyak ke database 
  
 3. CRUD Sederhana
     * Tambah, Edit dan Hapus Data
